@@ -1,0 +1,22 @@
+.firstline{
+  /* border: 1px solid black; */
+  margin: 10px;
+
+}
+.secondline{
+
+}
+.thirdline{
+
+}
+.firstline .secondline .thirdline{
+
+}
+.tableframe {
+  margin: 20px;
+  background-color: white;
+  height: 300px;
+  border: 1px solid #0026;
+  position: absolute;
+  width: 650px;
+}
